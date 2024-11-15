@@ -2,6 +2,9 @@
 Headlamp
 : emits a constant light source, ranging from level 1 (similar to lichen) to level 2 (similar with a torch) to level 3 (something brighter).
 
+Glutton
+: automatically eating from your hot bar
+
 Unbreakable
 : makes the item unusable when the durability hits 1. Incompatible with **Mending**.
 
@@ -13,7 +16,10 @@ Unbreakable
 : makes the item unusable when the durability hits 1. Incompatible with **Mending**.
 
 Light weight
-: makes you move slighty faster while taking slighly more damage from physical attacks.
+: makes you move slightly faster while taking slighly more damage from physical attacks.
+
+Spooky
+: you start to scare mobs
 
 ## Fishing rod
 Void Twist
@@ -21,6 +27,9 @@ Void Twist
 
 Unbreakable
 : makes the item unusable when the durability hits 1. Incompatible with **Mending**.
+
+Multiple lure
+: chance to catch multiple fish with one 'bait'
 
 ## Sword
 Speed
